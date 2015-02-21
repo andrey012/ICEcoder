@@ -53,6 +53,7 @@ $text = array(
         "Color picker"          => "اشاره گر رنگ",
         "New File"          => "فایل جدید",
         "New Folder"            => "پوشه جدید",
+		"Find in Files"			=> "Find in Files",
         "Upload File(s)"        => "بارگذاری فایل",
         "Paste"             => "چسباندن",
         "Open"              => "باز کردن",

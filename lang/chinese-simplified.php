@@ -53,6 +53,7 @@ $text = array(
 		"Color picker"			=> "颜色选择器",
 		"New File"			=> "新建文件",
 		"New Folder"			=> "新建文件夹",
+		"Find in Files"			=> "Find in Files",
 		"Upload File(s)"		=> "上传文件",
 		"Paste"				=> "粘贴",
 		"Open"				=> "打开",

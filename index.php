@@ -139,6 +139,7 @@ $t = $text['index'];
 	<span id="folderMenuItems">
 		<a href="javascript:top.ICEcoder.newFile()" onMouseOver="ICEcoder.showFileMenu()"><?php echo $t['New File'];?></a>
 		<a href="javascript:top.ICEcoder.newFolder()" onMouseOver="ICEcoder.showFileMenu()"><?php echo $t['New Folder'];?></a>
+		<a href="javascript:top.ICEcoder.findInFiles()" onMouseOver="ICEcoder.showFileMenu()"><?php echo $t['Find in Files'];?></a>
 		<div onMouseOver="ICEcoder.showFileMenu()" style="padding: 2px 0"><hr></div>
 		<a href="javascript:top.ICEcoder.uploadFilesSelect(top.ICEcoder.selectedFiles[top.ICEcoder.selectedFiles.length-1])" onMouseOver="ICEcoder.showFileMenu()"><?php echo $t['Upload File(s)'];?></a>
 		<div style="display: none">

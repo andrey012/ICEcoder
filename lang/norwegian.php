@@ -53,6 +53,7 @@ $text = array(
 		"Color picker"			=> "Fargevelger",
 		"New File"			=> "Ny Fil",
 		"New Folder"			=> "Ny Mappe",
+		"Find in Files"			=> "Find in Files",
 		"Upload File(s)"		=> "Last opp Fil(er)",
 		"Paste"				=> "Lim inn",
 		"Open"				=> "Åpne",

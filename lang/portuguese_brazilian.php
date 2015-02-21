@@ -52,6 +52,7 @@ $text = array(
 		"Color picker"			=> "Color picker",
 		"New File"			=> "Novo Arquivo",
 		"New Folder"			=> "Nova Pasta",
+		"Find in Files"			=> "Find in Files",
 		"Upload File(s)"		=> "Carregar arquivo(s)",
 		"Paste"				=> "Colar",
 		"Open"				=> "Abrir",
